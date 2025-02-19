@@ -86,3 +86,8 @@ body{
     background-color: #272727;
 }
 
+header{
+    height: 50px;
+    width: 100%;
+    background-color: #b10000;
+}
