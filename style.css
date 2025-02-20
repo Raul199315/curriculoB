@@ -90,4 +90,20 @@ header{
     height: 50px;
     width: 100%;
     background-color: #b10000;
+    
+}
+
+.header__menu__link{
+    color: #BEC9DF;
+    font-size: 20px;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: #b10000;
+}
+
+.footer__link{
+    color: #BEC9DF;
+    font-size: 20px;
 }
