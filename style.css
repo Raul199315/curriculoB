@@ -21,7 +21,7 @@ body{
 .foto{
     height: 650px;
     width: 450px;
-    border: 2px solid #22D4FD;
+    border: 2px solid #d60101;
     border-radius: 13px;
     margin-left: 40px;
 }
@@ -70,7 +70,7 @@ body{
 
 .presentacion__enlaces__link{
       /* background-color: #22D4FD; */
-    border: 2px solid #22D4FD;
+    border: 2px solid #e40000;
     width: 378px;
     text-align: center;
     border-radius: 8px;
